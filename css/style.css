@@ -6,7 +6,9 @@ body {
    color: #130074;
    line-height: 1.6;
 }
-
+header {
+    margin: 0 auto;
+}
 main {
     background: #E24E42;
     margin: 0 auto;
