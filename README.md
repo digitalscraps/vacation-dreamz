@@ -8,7 +8,7 @@ Teaching material for OKcoders Spring Frontend Course
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 ### Layout Wrapper
 * [147 CSS colors](http://www.colors.commutercreative.com/grid/)
-* [Centering Content] (https://css-tricks.com/centering-css-complete-guide)
+* [Centering Content](https://css-tricks.com/centering-css-complete-guide)
 ## Mobile and Media Queries(
 * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 ## Header and Navigation
@@ -25,14 +25,6 @@ Teaching material for OKcoders Spring Frontend Course
 * [Background Image](https://css-tricks.com/almanac/properties/b/background-image/)
 * [Background Size](https://css-tricks.com/almanac/properties/b/background-size/)
 
-
-
-## 1. Layout Basics
-### Normalize and Base Layout
-* [Normalize.css](https://necolas.github.io/normalize.css/)
-### Layout Wrapper
-* [147 CSS colors](http://www.colors.commutercreative.com/grid/)
-* [Centering content] (https://css-tricks.com/centering-css-complete-guide)
 
 
 ### CSS + Frontend Materials
