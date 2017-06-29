@@ -8,7 +8,7 @@ Teaching material for OKcoders Spring Frontend Course
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 ### Layout Wrapper
 * [147 CSS colors](http://www.colors.commutercreative.com/grid/)
-* [Centering content] (https://css-tricks.com/centering-css-complete-guide/)
+* [Centering content] (https://css-tricks.com/centering-css-complete-guide)
 
 
 ### CSS + Frontend Materials
