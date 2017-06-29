@@ -20,11 +20,22 @@ a {
 
 img {
     width: 100%;
+    box-shadow: 10px 10px  #E9B000;
 }
 
 h1 {
     margin: 0;
     text-align:center;
+}
+button {
+    width: 220px;
+    height: 70px;
+    margin: 2.5rem;
+    background-color: #130074;
+    color: #E9B000;
+    font-size: 2rem;
+    border: none;
+    text-transform: uppercase;
 }
 
 /* ================================= 
@@ -34,31 +45,31 @@ h1 {
 	/* ------- Header and Navigation ------- */
     header, nav {
     text-align: center;
-    margin: 20px 0;
+    margin: 0;
     padding: 10px;
+    }
+    nav {
+    margin: 20px 0;
     }
     nav a {
     padding: 3px 8px;
     }
 
-	/* ---- Section Containers ---- */
 
+	/* ---- Section Containers ---- */
+    section, footer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
     section div {
-        float: left;
-        padding: 10px;
-    }
-    section div:after {
-        content: ".";
-        visibility: hidden;
-        display: block;
-        height: 0;
-        clear: both;
-    }
-    button {
-        display: block;
-    }
-    footer {
-        clear: both;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
+        margin: 24px;
     }
 
 
