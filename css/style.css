@@ -5,6 +5,7 @@ body {
     background: mintcream;
    color: #130074;
    line-height: 1.6;
+   font-size: 1rem;
 }
 
 main {
@@ -16,6 +17,7 @@ main {
 a {
     text-decoration: none;
     color: #130074;
+    font-size: 2rem;
 }
 
 img {
@@ -26,6 +28,7 @@ img {
 h1 {
     margin: 0;
     text-align:center;
+    font-size: 3rem;
 }
 button {
     width: 220px;
