@@ -1,23 +1,26 @@
 /* ================================= 
   Base Element Styles
 ==================================== */
+html {
+    font-size: 16px; /*base size */
+}
 body {
     background: mintcream;
    color: #130074;
    line-height: 1.6;
-   font-size: 1rem;
+   font-size: 1rem; /*16px */
 }
 
 main {
     background: #E24E42;
-    margin: 0 auto;
+    margin: 40px auto;
     width: 90%;
 }
 
 a {
     text-decoration: none;
     color: #130074;
-    font-size: 2rem;
+    font-size: 1rem; /*16px */
 }
 
 img {
@@ -28,12 +31,12 @@ img {
 h1 {
     margin: 0;
     text-align:center;
-    font-size: 3rem;
+    font-size: 3rem; /*48px*/
 }
 button {
     width: 220px;
     height: 70px;
-    margin: 2.5rem;
+    margin: 1.5rem; /*24px*/
     background-color: #130074;
     color: #E9B000;
     font-size: 2rem;
@@ -86,5 +89,8 @@ button {
     }
     img {
         max-width: 400px;
+    }
+    a {
+        font-size: 2rem; /*40px/*
     }
 }
