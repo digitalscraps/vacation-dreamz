@@ -7,9 +7,9 @@ html {
 body {
     background: url(../img/bg.jpg)  mintcream;
     background-size: contain;
-   color: #130074;
-   line-height: 1.6;
-   font-size: 1rem; /*16px */
+    color: #130074;
+    line-height: 1.6;
+    font-size: 1rem; /*16px */
 }
 
 main {
@@ -92,6 +92,6 @@ button {
         max-width: 400px;
     }
     a {
-        font-size: 2rem; /*40px/*
+        font-size: 2rem; /*40px*/
     }
 }
