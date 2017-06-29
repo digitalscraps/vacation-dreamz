@@ -3,10 +3,10 @@ Teaching material for OKcoders Spring Frontend Course
 
 
 
-## 1. Layout Basics
-### Normalize and Base Layout
+
+## Normalize and Base Layout
 * [Normalize.css](https://necolas.github.io/normalize.css/)
-### Layout Wrapper
+## Layout Wrapper
 * [147 CSS colors](http://www.colors.commutercreative.com/grid/)
 * [Centering Content](https://css-tricks.com/centering-css-complete-guide)
 ## Mobile and Media Queries(
