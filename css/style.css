@@ -41,7 +41,10 @@ h1 {
     padding: 3px 8px;
     }
 
-	/* ---- Layout Containers ---- */
+	/* ---- Section Containers ---- */
+    section div {
+        float: left;
+    }
 
 
     /* ================================= 
