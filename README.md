@@ -1,6 +1,7 @@
 # vacation-dreamz
 Teaching material for OKcoders Spring Frontend Course
 
+
 ## 1. Layout Basics
 ### Normalize and Base Layout
 * [Normalize.css](https://necolas.github.io/normalize.css/)

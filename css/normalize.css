@@ -425,6 +425,7 @@ td,
 th {
   padding: 0;
 }
+
 /* Lists
    ========================================================================== */
 
@@ -434,4 +435,12 @@ th {
  ol, ul {
    list-style: none;
    margin: 0;
+ * Remove most default list styles margins and padding
+ */
+
+ ol,
+ ul {
+   margin: 0;
+   list-style: none;
+
  }
