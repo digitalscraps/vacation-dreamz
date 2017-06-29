@@ -1,0 +1,49 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+body {
+    background: mintcream;
+   color: #130074;
+   line-height: 1.6;
+}
+
+main {
+    background: #E24E42;
+    margin: 0 auto;
+    width: 90%;
+}
+
+a {
+    text-decoration: none;
+    color: #130074;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* ================================= 
+	  Base Layout Styles
+==================================== */	
+
+	/* ------- Navigation ------- */
+
+	/* ---- Layout Containers ---- */
+
+
+    /* ================================= 
+	  Media Queries
+==================================== */	
+@media(min-width: 768px) {
+    main {
+        width: 70%;
+        max-width: 1200px;
+    }
+    img {
+        max-width: 400px;
+    }
+}
