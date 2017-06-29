@@ -9,7 +9,7 @@ Teaching material for OKcoders Spring Frontend Course
 ## Layout Wrapper
 * [147 CSS colors](http://www.colors.commutercreative.com/grid/)
 * [Centering Content](https://css-tricks.com/centering-css-complete-guide)
-## Mobile and Media Queries(
+## Mobile and Media Queries
 * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 ## Header and Navigation
 * [Display Type](https://www.w3schools.com/html/html_blocks.asp)
@@ -27,7 +27,7 @@ Teaching material for OKcoders Spring Frontend Course
 
 
 
-### CSS + Frontend Materials
+# CSS + Frontend Materials
 * [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 * [BEM](https://seesparkbox.com/foundry/bem_by_example)
 * [Web Field Manual](https://webfieldmanual.com/)
