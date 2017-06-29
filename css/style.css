@@ -42,8 +42,23 @@ h1 {
     }
 
 	/* ---- Section Containers ---- */
+
     section div {
         float: left;
+        padding: 10px;
+    }
+    section div:after {
+        content: ".";
+        visibility: hidden;
+        display: block;
+        height: 0;
+        clear: both;
+    }
+    button {
+        display: block;
+    }
+    footer {
+        clear: both;
     }
 
 
